@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Eyes
+Trying out the plugin creation process
